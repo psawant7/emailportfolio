@@ -1,0 +1,1166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<title>Newsletter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0 " />
+<meta name="format-detection" content="telephone=no"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i"  />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tahoma:400,400i,700,700i"  />
+<!--[if mso]> <style type="text/css"> body, table, td, span {font-family: Arial, Helvetica, sans-serif !important;}</style> <![endif]-->
+<style type="text/css">
+body { margin: 0 auto !important; padding: 0; -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; -webkit-font-smoothing: antialiased !important; }
+img { border: 0 !important; outline: none !important; }
+p { Margin: 0px !important; Padding: 0px !important; }
+table { border-collapse: collapse; mso-table-lspace: 0px; mso-table-rspace: 0px; }
+td, a, span { border-collapse: collapse; mso-line-height-rule: exactly; }
+.ExternalClass * { line-height: 100%; }
+.en_defaultlink a { color: inherit; text-decoration: none; }
+.en_g_img + div { display: none; }
+
+@media only screen and (min-width:481px) and (max-width:649px) {
+.en_main_table { width: 481px !important; }
+.en_wrapper { width: 100% !important; }
+.en_hide { display: none !important; }
+.en_full_img1 img { width: 100% !important; height: auto !important; max-width: none !important; }
+.en_aside15 { padding: 0px 15px !important; } /* Padding Left Right Bottom */
+.en_h20 { height: 20px !important; font-size: 1px!important; line-height: 1px!important; }
+.en_h30 { height: 30px !important; }
+.en_aside20 { padding: 0px 20px !important; }
+.en_side20 { width: 20px !important; }
+.en_aside20 { padding: 0px 20px !important; }
+.en_h25 { height: 25px !important; }
+.en_ptop25 { padding-top: 25px !important; }
+.en_wrapper_50_1 { width: 45% !important; margin: 10px 10px 10px 11px !important; }
+.en_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+}
+
+@media only screen and (min-width:375px) and (max-width:480px) {
+.en_main_table { width: 375px !important; }
+.en_wrapper { width: 100% !important; }
+.en_hide { display: none !important; }
+.en_full_img1 img { width: 100% !important; height: auto !important; max-width: none !important; }
+.en_aside15 { padding: 0px 15px !important; } /* Padding Left Right Bottom */
+.en_h20 { height: 20px !important; font-size: 1px!important; line-height: 1px!important; }
+.en_h30 { height: 30px !important; }
+u + .en_body .en_full_wrap { width: 100% !important; width: 100vw !important; }
+.en_aside20 { padding: 0px 20px !important; }
+.en_side20 { width: 20px !important; }
+.en_aside20 { padding: 0px 20px !important; }
+.en_h25 { height: 25px !important; }
+.en_ptop25 { padding-top: 25px !important; }
+.en_text1 { font-size: 22px !important; line-height: 24px !important; }
+.en_wrapper_50_1 { width: 44% !important; margin: 10px 10px 10px 10px !important; }
+.en_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+}
+
+@media screen and (max-width: 374px) {
+.en_main_table { width: 320px !important; }
+.en_wrapper { width: 100% !important; }
+.en_hide { display: none !important; }
+.en_full_img1 img { width: 100% !important; height: auto !important; max-width: none !important; }
+.en_aside15 { padding: 0px 15px !important; } /* Padding Left Right Bottom */
+.en_h20 { height: 20px !important; font-size: 1px!important; line-height: 1px!important; }
+.en_h30 { height: 30px !important; }
+u + .en_body .en_full_wrap { width: 100% !important; width: 100vw !important; }
+.en_aside20 { padding: 0px 20px !important; }
+.en_side20 { width: 20px !important; }
+.en_aside20 { padding: 0px 20px !important; }
+.en_h25 { height: 25px !important; }
+.en_ptop25 { padding-top: 25px !important; }
+.en_text1 { font-size: 22px !important; line-height: 24px !important; }
+.en_wrapper_50_1 { width: 43% !important; margin: 10px 10px 10px 10px !important; }
+.en_hide_desktop { display: table !important; float: none !important; width: 100% !important; overflow: visible !important; height: auto !important; }
+}
+</style>
+</head>
+<body class="en_body">
+<!-- == Header Section == -->
+<table bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" class="en_full_wrap" width="100%">
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><table align="center" bgcolor="#00000" border="0" cellpadding="0" cellspacing="0" class="en_main_table" style="width:650px; table-layout:fixed; background-color:#151515;" width="650">
+          <tbody>
+            <tr>
+              <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><a href="#" style="text-decoration:none;" target="_blank"><img alt="LOGO" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c7ee72c3b66cd2907714977/original.png?1551820588" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:96px;" width="96" /></a></td>
+            </tr>
+            <tr>
+              <td height="24" style="height:24px; font-size:1px; line-height:1px;"></td>
+            </tr>
+            <tr>
+              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:16px; line-height:22px; letter-spacing:4px; color:#F5F5F5;" valign="top">NEW THIS MONTH</td>
+            </tr>
+            <tr>
+              <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+<!-- == //Header Section == --><!-- == Body Section == -->
+
+<table bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" class="en_full_wrap" width="100%">
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_main_table" style="width:650px; table-layout:fixed;" width="650">
+          <!-- Banner section -->
+          <tbody>
+            <tr>
+              <td align="center" valign="top"><table align="center" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <!-- == hero == -->
+                    <tr>
+                      <td width="650" style="max-width: 650px;" align="center" class="en_full_img1" valign="top"><img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24a1d437431123a930044f/original.jpg?1562681812" alt="Image 16×9 Hero" border="0" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:650px; width: 100%;" width="650" height="496" class="en_full_img1"/></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <!-- == end hero == -->
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Banner section --><!-- Headline Content With Cta section -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 75px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="center" class="en_defaultlink en_text1" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:28px; line-height:33px; color:#F5F5F5;" valign="top">With all the different devices our there, we know things can get a little complicated.</td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="50" style="height:50px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Consider this your guide to all the different devices EPIX NOW is available on! Plus, find out how to stream in 4K and download titles to your mobile devices - all included in your menbership at no additional charge.</td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" bgcolor="#C7A338" border="0" cellpadding="0" cellspacing="0" style="background-color:#C7A338;">
+                          <tbody>
+                            <tr>
+                              <td align="center" class="en_defaultlink" height="44" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size: 14px;font-weight: bold; height:44px; color:#232323; padding:0px 30px;" valign="middle"><a href="#" style="text-decoration:none; color:#232323; display:block; line-height:44px;" target="_blank">Placeholder</a></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+   						<!--- Left Image Right Content section1 -->
+
+						<tr>
+
+							<td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top">
+
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+									<tbody>
+
+										<tr>
+
+											<td align="center" bgcolor="#1d1d1d" valign="top">
+
+												<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+													<tbody>
+
+														<tr>
+
+															<td valign="top">
+
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:268px;" width="268">
+
+																	<tbody>
+
+																		<tr>
+
+																			<td align="center" class="en_hide" valign="top">
+
+																				<img alt="Image 2×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24ce0961273326199a4c7b/original.jpg?1562693129" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:268px;" width="268"/>
+
+																			</td>
+
+																		</tr>
+
+																		<!-- Mobile Show Image -->
+
+																		<!--[if !mso 9]><!-->
+
+																		<tr>
+
+																			<td height="0">
+
+																				<div class="en_hide_desktop" style="display:none;width:0;overflow:hidden;max-height:0!important">
+
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+																						<tbody>
+
+																							<tr>
+
+																								<td align="center" class="en_full_img1" valign="top">
+
+																									<img alt="Image 4×3 Mobile" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24ce6e1e0a163ad81928b1/original.jpg?1562693230" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:345px;" width="345"/>
+
+																								</td>
+
+																							</tr>
+
+																						</tbody>
+
+																					</table>
+
+																				</div>
+
+																			</td>
+
+																		</tr>
+
+																		<!--<![endif]-->
+
+																		<!-- //Mobile Show Image End -->
+
+																	</tbody>
+
+																</table>
+
+																<!--[if gte mso 9]></td><td valign="top"><![endif]-->
+
+
+
+																<table align="right" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:302px;" width="302">
+
+																	<tbody>
+
+																		<tr>
+
+																			<td align="center" class="en_aside20" style="padding:0px 30px;" valign="top">
+
+																				<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+																					<tbody>
+
+																						<tr>
+
+																							<td class="en_h30" height="28" style="height:28px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:20px; line-height:26px; color:#F5F5F5;" valign="top">Max Character Count 26</td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td height="20" style="height:20px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tenpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+
+																								<span style="font-weight:bold;">MAX CHARCTER 255.</span></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" valign="top">
+
+																								<table align="center" bgcolor="#C7A338" border="0" cellpadding="0" cellspacing="0" style="background-color:#232323;">
+
+																									<tbody>
+
+																										<tr>
+
+																											<td align="center" class="en_defaultlink" height="44" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size: 14px;font-weight: bold; height:44px; color:#232323; padding:0px 30px;" valign="middle">
+
+																												<a href="#" style="text-decoration:none; color:#232323; display:block; line-height:44px;" target="_blank">Placeholder</a>
+
+																											</td>
+
+																										</tr>
+
+																									</tbody>
+
+																								</table>
+
+																							</td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" valign="top">
+
+																								<table align="center" bgcolor="#C7A338" border="0" cellpadding="0" cellspacing="0" style="background-color:#C7A338;">
+
+																									<tbody>
+
+																										<tr>
+
+																											<td align="center" class="en_defaultlink" height="44" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size: 14px;font-weight: bold; height:44px; color:#232323; padding:0px 30px;" valign="middle">
+
+																												<a href="#" style="text-decoration:none; color:#232323; display:block; line-height:44px;" target="_blank">Placeholder</a>
+
+																											</td>
+
+																										</tr>
+
+																									</tbody>
+
+																								</table>
+
+																							</td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td class="en_h30" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																					</tbody>
+
+																				</table>
+
+																			</td>
+
+																		</tr>
+
+																	</tbody>
+
+																</table>
+
+															</td>
+
+														</tr>
+
+													</tbody>
+
+												</table>
+
+											</td>
+
+										</tr>
+
+										<tr>
+
+											<td height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+
+										</tr>
+
+									</tbody>
+
+								</table>
+
+							</td>
+
+						</tr>
+
+						<!-- //Left Image Right Content section1 -->
+
+						<!-- Left Image Right Content section2 -->
+
+						<tr>
+
+							<td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top">
+
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+									<tbody>
+
+										<tr>
+
+											<td align="center" bgcolor="#1d1d1d" valign="top">
+
+												<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+													<tbody>
+
+														<tr>
+
+															<td valign="top">
+
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:268px;" width="268">
+
+																	<tbody>
+
+																		<tr>
+
+																			<td align="center" class="en_hide" valign="top">
+
+																				<img alt="Image 2×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cef7612733029e9a508e/original.jpg?1562693367" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:268px;"
+
+																				width="268"/>
+
+																			</td>
+
+																		</tr>
+
+																		<!-- Mobile Show -->
+
+																		<!--[if !mso 9]><!-->
+
+																		<tr>
+
+																			<td height="0">
+
+																				<div class="en_hide_desktop" style="display:none;width:0;overflow:hidden;">
+
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+																						<tbody>
+
+																							<tr>
+
+																								<td align="center" class="en_full_img1" valign="top">
+
+																									<img alt="Image 4×3 mobile" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cf0414a5160dda4c6d1c/original.jpg?1562693380" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:345px;" width="345"/>
+
+																								</td>
+
+																							</tr>
+
+																						</tbody>
+
+																					</table>
+
+																				</div>
+
+																			</td>
+
+																		</tr>
+
+																		<!--<![endif]-->
+
+																		<!-- //Mobile Show End-->
+
+																	</tbody>
+
+																</table>
+
+																<!--[if gte mso 9]></td><td valign="top"><![endif]-->
+
+
+
+																<table align="right" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:302px;" width="302">
+
+																	<tbody>
+
+																		<tr>
+
+																			<td align="center" class="en_aside20" style="padding:0px 30px;" valign="top">
+
+																				<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+																					<tbody>
+
+																						<tr>
+
+																							<td class="en_h30" height="28" style="height:28px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:20px; line-height:26px; color:#F5F5F5;" valign="top">Max Character Count 26</td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td height="20" style="height:20px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tenpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+
+																								<span style="font-weight:bold;">MAX CHARCTER 255.</span></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td class="en_h25" height="33" style="height:33px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td align="center" valign="top">
+
+																								<table align="center" bgcolor="#C7A338" border="0" cellpadding="0" cellspacing="0" style="background-color:#C7A338;">
+
+																									<tbody>
+
+																										<tr>
+
+																											<td align="center" class="en_defaultlink" height="44" style="font-family: Noto Sans, Tahoma, Arial, sans-serif; font-size: 14px;font-weight: bold; height:44px; color:#232323; padding:0px 30px;" valign="middle">
+
+																												<a href="#" style="text-decoration:none; color:#232323; display:block; line-height:44px;" target="_blank">Placeholder</a>
+
+																											</td>
+
+																										</tr>
+
+																									</tbody>
+
+																								</table>
+
+																							</td>
+
+																						</tr>
+
+																						<tr>
+
+																							<td class="en_h30" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+
+																						</tr>
+
+																					</tbody>
+
+																				</table>
+
+																			</td>
+
+																		</tr>
+
+																	</tbody>
+
+																</table>
+
+															</td>
+
+														</tr>
+
+													</tbody>
+
+												</table>
+
+											</td>
+
+										</tr>
+
+										<tr>
+
+											<td class="en_h30" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+
+										</tr>
+
+									</tbody>
+
+								</table>
+
+							</td>
+
+						</tr>
+
+						<!-- Left Image Right Content section2 end-->
+
+            <!-- /<!-- Headline With Two Column section -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td class="en_hide" height="32" style="height:32px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" class="en_defaultlink en_text1" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:28px; line-height:32px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet</td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td valign="top"><table align="left" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:275px;" width="275">
+                                  <tbody>
+                                    <tr>
+                                      <td width="275"  style="max-width: 275px;" align="center" class="en_full_img1" valign="top"><img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24ce6e1e0a163ad81928b1/original.jpg?1562693230" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:275px; width:100%;" width="275" height="206" alt="Image 4×3" border="0" class="en_full_img1"/></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" bgcolor="#1d1d1d" class="en_aside20" style="padding:0px 26px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                          <tbody>
+                                            <tr>
+                                              <td height="20" style="height:20px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:20px; line-height:26px; color:#F5F5F5;" valign="top">Max Character 17</td>
+                                            </tr>
+                                            <tr>
+                                              <td height="15" style="height:15px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tenpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. <span style="font-weight:bold;">MAX CHARCTER 180.</span></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" valign="top"><table align="center" bgcolor="#C7A338" border="0" cellpadding="0" cellspacing="0" style="background-color:#C7A338;">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td align="center" class="en_defaultlink" height="44" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size: 14px;font-weight: bold; height:44px; color:#232323; padding:0px 30px;" valign="middle"><a href="#" style="text-decoration:none; color:#232323; display:block; line-height:44px;" target="_blank">Placeholder</a></td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="20" style="height:20px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                
+                                <table align="right" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:275px;" width="275">
+                                  <tbody>
+                                    <tr>
+                                      <td width="275" style="max-width: 275px;" align="center" class="en_full_img1" valign="top"><img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:275px; width: 100%;" width="275" height="206" alt="Image 4×3" border="0" class="en_full_img1"  /></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" bgcolor="#1d1d1d" class="en_aside20" style="padding:0px 26px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                          <tbody>
+                                            <tr>
+                                              <td height="20" style="height:20px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:20px; line-height:26px; color:#F5F5F5;" valign="top">Max Character 17</td>
+                                            </tr>
+                                            <tr>
+                                              <td height="15" style="height:15px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tenpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. <span style="font-weight:bold;">MAX CHARCTER 180.</span></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" valign="top"><table align="center" bgcolor="#C7A338" border="0" cellpadding="0" cellspacing="0" style="background-color:#C7A338;">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td align="center" class="en_defaultlink" height="44" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size: 14px;font-weight: bold; height:44px; color:#232323; padding:0px 30px;" valign="middle"><a href="#" style="text-decoration:none; color:#232323; display:block; line-height:44px;" target="_blank">Placeholder</a></td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="20" style="height:20px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="42" style="height:42px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Headline With Two Column section end --> 
+            <!-- Headline section -->
+            
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="center" class="en_defaultlink en_text1" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:28px; line-height:32px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet</td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="42" style="height:42px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Headline section --> 
+            <!-- Left Image Right Content section3 -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td valign="top"><table align="left" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:275px;" width="275">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1" valign="top"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:275px;" width="275" /></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                
+                                <table align="right" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:275px;" width="275">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_aside20" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                          <tbody>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink en_ptop25" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:20px; line-height:26px; color:#F5F5F5;" valign="top">Max Character Count 26</td>
+                                            </tr>
+                                            <tr>
+                                              <td height="15" style="height:15px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tenpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.<span style="font-weight:bold;">MAX CHARCTER 180.</span></td>
+                                            </tr>
+                                            <tr>
+                                              <td class="en_h20" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top"><a href="#" style="text-decoration:none; color:#c7a338; font-weight:bold;" target="_blank">Stream Series</a> | <a href="#" style="text-decoration:none; color:#c7a338; font-weight:bold;" target="_blank">Stream Trailer</a></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Left Image Right Content section3 --> 
+            <!-- Left Image Right Content section4 -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td valign="top"><table align="left" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:275px;" width="275">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1" valign="top"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24ce6e1e0a163ad81928b1/original.jpg?1562693230" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:275px;" width="275" /></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                
+                                <table align="right" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:275px;" width="275">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_aside20" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                          <tbody>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink en_ptop25" style="font-family:Noto Sans, Tahoma, Arial, sans-serif;; font-size:20px; line-height:26px; color:#F5F5F5;" valign="top">Max Character Count 26</td>
+                                            </tr>
+                                            <tr>
+                                              <td height="15" style="height:15px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tenpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.<span style="font-weight:bold;">MAX CHARCTER 180.</span></td>
+                                            </tr>
+                                            <tr>
+                                              <td class="en_h20" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                                            </tr>
+                                            <tr>
+                                              <td align="center" class="en_defaultlink" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:14px; line-height:20px; color:#F5F5F5;" valign="top"><a href="#" style="text-decoration:none; color:#c7a338; font-weight:bold;" target="_blank">Stream Series</a> | <a href="#" style="text-decoration:none; color:#c7a338; font-weight:bold;" target="_blank">Stream Trailer</a></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h20" height="42" style="height:42px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Left Image Right Content section4 --> 
+            <!-- Headline section2 -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="center" class="en_defaultlink en_text1" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:28px; line-height:32px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet</td>
+                    </tr>
+                    <tr>
+                      <td class="en_h25" height="42" style="height:42px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Headline section2 --> 
+            <!-- Three Column Image section -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:570px;" width="50">
+                  <tbody>
+                    <tr>
+                      <td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_tab" width="100%">
+                          <tbody>
+                            <tr>
+                              <td valign="top"><!--Row One--><!--[if gte mso 9]>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" align="center" width="176">
+                                                      <![endif]-->
+                                
+                                <table align="left" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_wrapper_50_1" width="176">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:176px;" width="176" /></a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="25">
+                                                      <![endif]-->
+                                
+                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="en_hide" width="21">
+                                  <tbody>
+                                    <tr>
+                                      <td height="21" width="21"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="176">
+                                                      <![endif]-->
+                                
+                                <table align="left" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_wrapper_50_1" width="176">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:176px;" width="176" /></a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="25">
+                                                      <![endif]-->
+                                
+                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="en_hide" width="21">
+                                  <tbody>
+                                    <tr>
+                                      <td height="21" width="21"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="176">
+                                                      <![endif]-->
+                                
+                                <table align="left" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_wrapper_50_1" width="176">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:176px;" width="176" /></a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                  </tr>
+                                                </table>
+                                                <![endif]--><!--Row One End--><!--Display Block-->
+                                
+                                <table border="0" cellpadding="0" cellspacing="0" class="en_hide" style="clear:both; overflow:hidden; display:block;" width="100%">
+                                  <tbody>
+                                    <tr>
+                                      <td height="25" style="line-height:1px; font-size:1px;"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--Display Block End--><!--Row Two--><!--[if gte mso 9]>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" align="center" width="176">
+                                                      <![endif]-->
+                                
+                                <table align="left" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_wrapper_50_1" width="176">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:176px;" width="176" /></a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="25">
+                                                      <![endif]-->
+                                
+                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="en_hide" width="21">
+                                  <tbody>
+                                    <tr>
+                                      <td height="21" width="21"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="176">
+                                                      <![endif]-->
+                                
+                                <table align="left" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_wrapper_50_1" width="176">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:176px;" width="176" /></a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="25">
+                                                      <![endif]-->
+                                
+                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="en_hide" width="21">
+                                  <tbody>
+                                    <tr>
+                                      <td height="21" width="21"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                    <td valign="top" align="center" width="176">
+                                                      <![endif]-->
+                                
+                                <table align="left" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_wrapper_50_1" width="176">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 4×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24cfa43743115a7e300314/original.jpg?1562693540" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:176px;" width="176" /></a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]>
+                                                    </td>
+                                                  </tr>
+                                                </table>
+                                                <![endif]--><!--Row Two End--></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Three Column Image section --> 
+            <!-- Headline section3 -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td class="en_h20" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" class="en_defaultlink en_text1" style="font-family:Noto Sans, Tahoma, Arial, sans-serif; font-size:28px; line-height:32px; color:#F5F5F5;" valign="top">Loren ipsum dolor sit amet</td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Headline section3 --> 
+            <!-- Four Column Image section -->
+            <tr>
+              <td align="center" bgcolor="#151515" class="en_aside15" style="padding:0px 40px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:570px;" width="50">
+                  <tbody>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td valign="top"><table align="left" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:276px;" width="276">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:276px; max-width:276px;" width="276">
+                                          <tbody>
+                                            <tr>
+                                              <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 2×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24d07b37431129473002ce/original.jpg?1562693755" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:129px;" width="129" /></a></td>
+                                              <td style="width:18px;" width="18"></td>
+                                              <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 2×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24d07b37431129473002ce/original.jpg?1562693755" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:129px;" width="129" /></a></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                
+                                <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                
+                                <table align="right" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:276px;" width="276">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="en_ptop25" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:276px; max-width:276px;" width="276">
+                                          <tbody>
+                                            <tr>
+                                              <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 2×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24d07b37431129473002ce/original.jpg?1562693755" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:129px;" width="129" /></a></td>
+                                              <td style="width:18px;" width="18"></td>
+                                              <td align="center" class="en_full_img1"><a href="#" style="text-decoration:none;" target="_blank"><img alt="Image 2×3" border="0" class="en_full_img1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d24d07b37431129473002ce/original.jpg?1562693755" style="color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; display:block; max-width:129px;" width="129" /></a></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h30" height="42" style="height:42px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- //Four Column Image section -->
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+<!-- == //Body Section == --> 
+<!-- == Footer Section == -->
+
+<table bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" class="en_full_wrap" width="100%">
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><table align="center" bgcolor="#151515" border="0" cellpadding="0" cellspacing="0" class="en_main_table" style="width:650px; table-layout:fixed;" width="650">
+          <tbody>
+            <tr>
+              <td align="center" class="en_aside15" style="padding:0px 115px;" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td class="en_h20" height="65" style="height:65px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:303px; max-width:303px;" width="303">
+                          <tbody>
+                            <tr>
+                              <td align="center" valign="middle"><a href="https://www.epixnow.com/" style="text-decoration:none;" target="_blank"><img alt="epix NOW" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5cefeef87b92ea4ceb97e468/original.png?1559228152" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:120px;" width="120" /></a></td>
+                              <td style="width:40px;" width="40"></td>
+                              <td align="center" valign="middle"><a href="https://www.facebook.com/EPIX/" style="text-decoration:none;" target="_blank"><img alt="Facebook" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5cefeef81e0a161d37b2070a/original.png?1559228152" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:11px; line-height:20px; max-width:12px;" width="12" /></a></td>
+                              <td style="width:40px;" width="40"></td>
+                              <td align="center" valign="middle"><a href="https://twitter.com/EPIXHD" style="text-decoration:none;" target="_blank"><img alt="Twitter" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5cefeef86127330deacf7c57/original.png?1559228152" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:11px; line-height:20px; max-width:28px;" width="28" /></a></td>
+                              <td style="width:40px;" width="40"></td>
+                              <td align="center" valign="middle"><a href="https://www.instagram.com/epix/?hl=en" style="text-decoration:none;" target="_blank"><img alt="Instagram" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5cefeef87161243ec0af0cd2/original.png?1559228152" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:11px; line-height:20px; max-width:23px;" width="23" /></a></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h20" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:288px; max-width:288px;" width="288">
+                          <tbody>
+                            <tr>
+                              <td align="center" valign="middle"><a href="https://itunes.apple.com/us/app/epix-now-watch-tv-and-movies/id1387514950?mt=8" style="text-decoration:none;" target="_blank"><img alt="Download on the AppStore" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c9cd849733b16285ee2dd97/original.png?1553782857" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:124px;" width="124" /></a></td>
+                              <td style="width:40px;" width="40"></td>
+                              <td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.epix.epix.now&amp;hl=en_US" style="text-decoration:none;" target="_blank"><img alt="GET IT ON Google Play" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c9cd8491b0e4d16f07a61a2/original.png?1553782857" style="display:block; color:fF5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:124px;" width="124" /></a></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h20" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="en_wrapper" style="width:288px; max-width:288px;" width="288">
+                          <tbody>
+                            <tr>
+                              <td align="center" valign="middle"><a href="https://www.amazon.com/gp/product/B07PPPZQC6" style="text-decoration:none;" target="_blank"><img alt="available at amazon appstore" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c9cd8495c5a6832850f5cef/original.png?1553782857" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:124px;" width="124" /></a></td>
+                              <td style="width:40px;" width="40"></td>
+                              <td align="center" valign="middle"><a href="https://channelstore.roku.com/details/261472/epix-now" style="text-decoration:none;" target="_blank"><img alt="Available on Roku Players &amp; TVs" border="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5cbdedc51e0a16233ead1bcd/original.png?1555951045" style="display:block; color:#F5F5F5; font-family:Arial, sans-serif;font-size:15px; line-height:20px; max-width:124px;" width="124" /></a></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h20" height="25" style="height:25px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                    <tr>
+                      <td align="center" class="en_defaultlink" style="font-family:'Noto Sans', Arial, sans-serif; font-size:12px; line-height:18px; color:#6e6e70;" valign="top">© 2019 EPIX Entertainment LLC. 4K Ultra HD is not available on all devices. All Rights Reserved. EPIX® is a registered tradenark and EPIX NOW is a tradenark of EPIX Entertainment LLC.<br />
+                        <br />
+                        <span style="color:#818181;"><a href="https://corp.epix.com/terms-of-use/" style="text-decoration:none; color:#818181; font-weight:bold;" target="_blank">Terms of Use</a> | <a href="https://www.epix.com/privacy-policy" style="text-decoration:none; color:#818181; font-weight:bold;" target="_blank">Privacy Policy</a> | <a href="{{${set_user_to_unsubscribed_url}}}" style="text-decoration:none; color:#818181; font-weight:bold;" target="_blank">Unsubscribe</a></span></td>
+                    </tr>
+                    <tr>
+                      <td class="en_h20" height="40" style="height:40px; font-size:1px; line-height:1px;"></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <tr>
+              <td class="en_hide" style="line-height:1px;min-width:650px;background-color:#151515;"><img alt="" border="0" height="1" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5cefefdf7161247867af09f2/original.gif?1559228383" style="max-height:1px; min-height:1px; display:block; width:650px; min-width:650px;" width="650" /></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+<!-- == //Footer Section == -->
+</body>
+</html>
